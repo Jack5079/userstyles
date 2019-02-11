@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           AAAAA.io
+@namespace      github.com/Jack5079/userstyles
+@version        1.0.0
+@description    edit for paper.io
+@author         Jack5079
+==/UserStyle== */
+
+@-moz-document domain("paper-io.com") {
+    #pre_game .logo {
+         background: url('https://i.imgur.com/FZ4z8FE.png') center center no-repeat; background-size: contain;
+    }
+}
