@@ -10,4 +10,8 @@
     #pre_game .logo {
          background: url('https://i.imgur.com/FZ4z8FE.png') center center no-repeat; background-size: contain;
     }
+    
+    #game_over .gameover {
+         background: url('https://i.imgur.com/FZ4z8FE.png') center center no-repeat; background-size: contain;
+    }
 }
