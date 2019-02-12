@@ -1,5 +1,5 @@
 /* ==UserStyle==
-@name           AAAAA.io
+@name           AAAAH.io
 @namespace      github.com/Jack5079/userstyles
 @version        1.0.0
 @description    edit for paper.io
@@ -8,13 +8,13 @@
 
 @-moz-document domain("paper-io.com") {
     #pre_game .logo {
-         background: url('https://i.imgur.com/FZ4z8FE.png') center center no-repeat; background-size: contain;
+         background: url('https://i.imgur.com/4wmqWKt.png') center center no-repeat; background-size: contain;
 	 animation: shake-animation 1.72s ease infinite;
          transform-origin: 50% 50%;
     }
     
     #game_over .gameover {
-         background: url('https://i.imgur.com/FZ4z8FE.png') center center no-repeat; background-size: contain;
+         background: url('https://i.imgur.com/4wmqWKt.png') center center no-repeat; background-size: contain;
          animation: shake-animation 1.72s ease infinite;
          transform-origin: 50% 50%;
     }
