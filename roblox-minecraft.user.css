@@ -1,0 +1,17 @@
+/* ==UserStyle==
+@name           minecraft roblox
+@namespace      github.com/Jack5079/userstyles/
+@version        1.0.0
+@description    They're already identical... (Just kidding!)
+@author         Jack5079
+==/UserStyle== */
+
+@-moz-document domain("roblox.com") {
+    .icon-logo {
+        background-image: url("https://logos-download.com/wp-content/uploads/2016/03/Minecraft_logo.png") !important;
+    }
+    
+    .icon-logo-r {
+        background-image: url("http://www.rw-designer.com/icon-image/5547-64x64x8.png") !important;
+    }
+}
